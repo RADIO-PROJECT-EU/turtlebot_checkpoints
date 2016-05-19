@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-""" move_base_square.py - Version 1.1 2013-12-20
+""" turtlebot_checkpoints.py - Version 1.1 2013-12-20
 
-    Command a robot to move in a square using move_base actions..
+    Command a robot to move to checkpoints using move_base actions..
 
-    Created for the Pi Robot Project: http://www.pirobot.org
+    Based on the Pi Robot Project: http://www.pirobot.org
     Copyright (c) 2012 Patrick Goebel.  All rights reserved.
 
     This program is free software; you can redistribute it and/or modify
